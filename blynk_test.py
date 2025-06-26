@@ -1,6 +1,6 @@
 import requests
 
-blynk_api_url = "https://blr1.blynk.cloud/external/api/update?token=XYQlq2B7-f0_AfM_G6wPfrVJjrBa4rBw&v1="
+blynk_api_url = "https://blr1.blynk.cloud/external/api/update?token=YOUR_AUTH_TOKEN"
 
 custom_value = 42
 

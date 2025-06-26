@@ -4,7 +4,7 @@ import dlib
 from imutils import face_utils
 import requests
 
-blynk_api_url = "https://blr1.blynk.cloud/external/api/update?token=aKqVb24KoEQ0wFGEtJyWFPY4h_pxp3p8&v0="
+blynk_api_url = "https://blr1.blynk.cloud/external/api/update?token=YOUR_AUTH_TOKEN&v0="
 
 
 face_frame=0
