@@ -129,10 +129,9 @@ This launches the camera feed and analyzes facial landmarks in real time.
 
 ---
 
-## 📄 License
+## License
 
-*This project currently does not include a license.*  
-You are encouraged to add one (e.g., MIT, GPL) in a `LICENSE` file at the root of the repository.
+Distributed under the MIT License. See [LICENSE](https://github.com/Dixon1323/smart-hydrophonics-system/blob/main/LICENSE.md) for more information.
 
 ---
 
